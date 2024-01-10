@@ -19,9 +19,7 @@ import {
     travel,
     dashboard,
     education,
-    carrent,
-    jobit,
-    tripguide,
+    portfolio,
     threejs,
   } from "../assets";
   
@@ -224,7 +222,8 @@ import {
         },
       ],
       image: travel,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/supapohn-jj/nextjs-camping",
+      live_web_link: "https://campier.vercel.app/",
     },
     {
       name: "WeBank",
@@ -245,7 +244,8 @@ import {
         },
       ],
       image: bank,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/supapohn-jj/react-bank",
+      live_web_link: "https://mebank.vercel.app/",
     },
     {
       name: "Shopier",
@@ -266,7 +266,8 @@ import {
         },
       ],
       image: dashboard,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/supapohn-jj/react-admin-dashboard",
+      live_web_link: "https://myshoppier.vercel.app/",
     },
     {
       name: "3D portfolio",
@@ -286,8 +287,9 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: dashboard,
-      source_code_link: "https://github.com/",
+      image: portfolio,
+      source_code_link: "https://github.com/supapohn-jj",
+      live_web_link: "https://www.linkedin.com/in/สุภาพร-จารัตน์-1322ab22a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfETZFmYQQMSJVOiuvCkTFg%3D%3D",
     },
   ];
   
